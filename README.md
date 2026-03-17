@@ -7,4 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/VIPAX-JIT/LEET_CODE_QUESTIONS/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0377-combination-sum-iv](https://github.com/VIPAX-JIT/LEET_CODE_QUESTIONS/tree/master/0377-combination-sum-iv) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0377-combination-sum-iv](https://github.com/VIPAX-JIT/LEET_CODE_QUESTIONS/tree/master/0377-combination-sum-iv) |
 <!---LeetCode Topics End-->
