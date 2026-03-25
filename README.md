@@ -11,8 +11,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0377-combination-sum-iv](https://github.com/VIPAX-JIT/LEET_CODE_QUESTIONS/tree/master/0377-combination-sum-iv) |
+| [3546-equal-sum-grid-partition-i](https://github.com/VIPAX-JIT/LEET_CODE_QUESTIONS/tree/master/3546-equal-sum-grid-partition-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0377-combination-sum-iv](https://github.com/VIPAX-JIT/LEET_CODE_QUESTIONS/tree/master/0377-combination-sum-iv) |
+## Matrix
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/VIPAX-JIT/LEET_CODE_QUESTIONS/tree/master/3546-equal-sum-grid-partition-i) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/VIPAX-JIT/LEET_CODE_QUESTIONS/tree/master/3546-equal-sum-grid-partition-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/VIPAX-JIT/LEET_CODE_QUESTIONS/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
